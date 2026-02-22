@@ -6,6 +6,10 @@ JuriVerto est une application de traduction orientee legal/enterprise avec:
 - une preservation forte du format (tableaux, numerotation, gras/souligne, structure),
 - une trace d'execution pour la transparence.
 
+## Screenshot
+
+![JuriVerto UI](docs/screenshots/juriverto-ui.png)
+
 ## Stack
 
 - Frontend: React + Vite (`/frontend`)
